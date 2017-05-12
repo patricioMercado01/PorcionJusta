@@ -1,5 +1,4 @@
-package GUI;
-
+package LegionGatito.PorcionJusta.GUI;
 import java.awt.GridLayout;
 
 import javax.swing.JPanel;

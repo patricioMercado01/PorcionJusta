@@ -1,4 +1,4 @@
-package GUI;
+package LegionGatito.PorcionJusta.GUI;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
@@ -45,7 +45,7 @@ public class VentanaControl extends JFrame implements ActionListener{
 	
 	
 	
-	@Override
+
 	public void actionPerformed(ActionEvent e) {
 		if(this.panelBotones.getBtnAddControl() == (e.getSource())){
 			this.setVisible(false);

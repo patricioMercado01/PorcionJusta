@@ -1,4 +1,4 @@
-package GUI;
+package LegionGatito.PorcionJusta.GUI;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
@@ -33,7 +33,7 @@ public class VentanaGrafico extends JFrame implements ActionListener{
 	    this.setVisible(true);
 	}
 
-	@Override
+	
 	public void actionPerformed(ActionEvent e) {
 		// TODO Auto-generated method stub
 			

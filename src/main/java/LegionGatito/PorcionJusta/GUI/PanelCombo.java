@@ -1,4 +1,4 @@
-package GUI;
+package LegionGatito.PorcionJusta.GUI;
 
 import javax.swing.JComboBox;
 import javax.swing.JPanel;

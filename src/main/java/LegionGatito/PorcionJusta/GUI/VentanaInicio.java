@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GUI;
+package LegionGatito.PorcionJusta.GUI;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -48,7 +48,7 @@ public class VentanaInicio extends JFrame implements ActionListener{
         this.setVisible(true);
     }
 
-    @Override
+    
     public void actionPerformed(ActionEvent e) {
         if (this.panelBotones.getBtnEntrar() == e.getSource()) {
             VentanaSeleccion s = new VentanaSeleccion();
